@@ -2,4 +2,4 @@
 
 ## Integrantes del equipo 11
 
-- Luis Daniel Ramirez Guerra
+- Luis Daniel Ramírez Guerra
